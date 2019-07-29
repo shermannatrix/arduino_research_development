@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/thecxhacker/.platformio/penv/bin:/home/thecxhacker/.platformio/penv:/usr/lib/llvm-8/bin:/home/thecxhacker/.local/bin:/usr/local/node/bin:/usr/local/go/bin:/home/thecxhacker/.cargo/bin:/home/thecxhacker/.local/bin:/home/thecxhacker/bin:/home/thecxhacker/esp/xtensa-esp32-elf/bin:/usr/lib/llvm-8/bin:/home/thecxhacker/.local/bin:/usr/local/node/bin:/usr/local/go/bin:/home/thecxhacker/.cargo/bin:/home/thecxhacker/.local/bin:/home/thecxhacker/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/thecxhacker/.dotnet/tools:/usr/lib/jvm/jdk-11.0.3/bin:/home/thecxhacker/.dotnet/tools:/usr/lib/jvm/jdk-11.0.3/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
