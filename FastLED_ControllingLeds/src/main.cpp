@@ -16,8 +16,19 @@ void loop() {
 		leds[i] = CRGB::YellowGreen;
 		
 		//leds[i] = CRGB::Black;
-		//FastLED.show();
+		FastLED.show();
+		delay(50);
+		leds[i] = CRGB::Black;
+		FastLED.show();
 	}
-	FastLED.show();
-	delay(30);
+	for (int i = NUM_LEDS-1; i > 0; i--) {
+		leds[i] = CRGB::YellowGreen;
+		
+		//leds[i] = CRGB::Black;
+		FastLED.show();
+		delay(50);
+		leds[i] = CRGB::Black;
+		FastLED.show();
+	}
+	delay(500);
 }
